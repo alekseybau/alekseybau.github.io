@@ -1,0 +1,43 @@
+IstominTEST
+
+1280x1680
+
+footer/
+1280x334
+bgc #757f3c
+
+input search     240x36 bgc#f3efe4
+
+header 1280x90 bgc#ffffff
+color uptext#c4b07a
+color products& #3b401e
+horizontal line color#757f3c
+number after cart color#e8930c
+right-top ul color#414141
+inputsearchtext color#757f3c
+input bgcf3efe4
+
+
+main blog 1029x1188
+New Law #d98d1b			icon(idea) bgc#000000
+latest posts #a3a78b
+date#828282
+loremipsum#5b5b5b
+readmore#d98d1b
+
+ divblogs    690x219
+pict  200x145 bgc#d1d1d1
+
+sidebar
+color category#4a4f2a
+	arcives#a3a78b
+	july&may #4a4f2a
+	june#94a14c
+	follow#a3a78b
+social#4a4f2a
+pinicon#d98d1b
+enteryouremail#94a14c
+
+BlogLastPost 943x414
+mainbutton bgc#e8930c
+			
